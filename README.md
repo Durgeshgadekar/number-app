@@ -20,7 +20,7 @@ To run this app locally, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/number-control-app.git
+    git clone https://github.com/durgeshgadekar/number-control-app.git
     cd number-control-app
     ```
 
@@ -42,7 +42,7 @@ To run this app locally, follow these steps:
 
 4. **Open the App**:
 
-    Open your browser and navigate to `http://localhost:3000` to see the app in action.
+  wait
 
 ## Usage
 
